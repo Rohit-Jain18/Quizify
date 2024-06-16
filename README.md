@@ -1,3 +1,7 @@
+Note : To get the Whole View of App Open the @AppShowcasingVideo.mp4 video
+--
+ 
+
 Quizify: A Fun and Interactive Quiz App
 --------------------------------------
 Overview
