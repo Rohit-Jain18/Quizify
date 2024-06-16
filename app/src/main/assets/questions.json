@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "choices": ["Berlin", "Madrid", "Paris", "Lisbon"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "choices": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "choices": ["H2O", "O2", "CO2", "NaCl"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "What is the square root of 64?",
+    "choices": ["6", "7", "8", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "choices": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "choices": ["50°C", "75°C", "90°C", "100°C"],
+    "correctAnswer": "100°C"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "choices": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "choices": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+    "correctAnswer": "Ottawa"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "choices": ["0", "1", "2", "3"],
+    "correctAnswer": "2"
+  }
+]
